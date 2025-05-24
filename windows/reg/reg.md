@@ -1,0 +1,1 @@
+## [delete shortcut](./Remove-Shortcut-text-from-new-shortcuts-Windows-11.reg)
