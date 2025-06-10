@@ -2,6 +2,10 @@
 
 ## [windows](./windows/windows.md)
 
+## [git](./git/git.md)
+
+# Languages
+
 ## [flutter](./flutter/flutter.md)
 
-## [git](./git/git.md)
+## [zig](./zig/zig.md)

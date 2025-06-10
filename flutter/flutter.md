@@ -1,5 +1,5 @@
 ```
-flutter create {NAME} -e --org="com.{orgname}"
+flutter create <NAME> -e --org="com.<orgname>"
 ```
 
 ```
