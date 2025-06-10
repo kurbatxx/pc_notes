@@ -1,1 +1,3 @@
-## [delete shortcut](./Remove-Shortcut-text-from-new-shortcuts-Windows-11.reg)
+## [delete shortcut](./detete-new-shortcuts.reg)
+
+## [delete recommended](./delete-recommended.reg)

@@ -4,6 +4,8 @@
 
 ## [git](./git/git.md)
 
+## [zed](./zed/zed.md)
+
 # Languages
 
 ## [flutter](./flutter/flutter.md)
