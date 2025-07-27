@@ -1,5 +1,7 @@
 # NOTES
 
+## [linux](./linux/linux.md)
+
 ## [windows](./windows/windows.md)
 
 ## [git](./git/git.md)
