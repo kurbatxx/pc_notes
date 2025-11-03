@@ -1,0 +1,12 @@
+services:
+  cuda-smi:
+    image: docker.io/nvidia/cuda:11.0.3-base-ubuntu20.04
+    command: nvidia-smi
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    runtime: nvidia
