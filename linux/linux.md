@@ -8,7 +8,7 @@ chsh -s $(which fish)
 
 ## Tauri fix
 ```
-GDK_BACKEND=x11 WEBKIT_DISABLE_COMPOSITING_MODE=1
+WEBKIT_DISABLE_COMPOSITING_MODE=1
 ```
 
 ## Delete packages
