@@ -1,4 +1,3 @@
-
 # disable greeting
 
 set -g fish_greeting
@@ -13,8 +12,12 @@ set --export PATH "$CARGO_HOME/bin" $PATH
 
 # android
 set --export ANDROID_HOME "$DEV_DIR/android"
-set --export PATH /opt/android-studio/jbr/bin $PATH
+set --export JAVA_HOME "$HOME/.local/share/JetBrains/Toolbox/apps/android-studio/jbr"
+# set --export PATH "/bin" $PATH
 set --export PATH "$DEV_DIR/android/platform-tools/" $PATH
+
+# dart
+set --export PATH "$HOME/.pub-cache/bin" $PATH
 
 # zed and others
 set --export PATH "$HOME/.local/bin" $PATH
@@ -35,7 +38,3 @@ set --export PATH "$DEV_DIR/npm/bin" $PATH
 
 # zig
 set --export PATH "$DEV_DIR/zig" $PATH
-
-# ollama
-set --export OLLAMA_MODELS "$DEV_DIR/ollama_models"
-
